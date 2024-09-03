@@ -1,0 +1,19 @@
+{
+  "name": "photoshop-study",
+  "description": "Recording photoshop software learning.",
+  "repository": "https://github.com/curder/photoshop-study.git",
+  "author": "curder <q.curder@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "engines": {
+    "node": ">= 18"
+  },
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.3.4"
+  }
+}
