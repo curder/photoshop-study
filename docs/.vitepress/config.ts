@@ -36,6 +36,7 @@ export default defineConfig({
                     text: '',
                     items: [
                         {text: '新建文档', link: '/guide/new-document'},
+                        {text: '打开文档', link: '/guide/open-document'},
                         {text: '图像大小', link: '/guide/image-size'},
                         {text: '常用快捷方式', link: '/guide/keymapping'},
                     ]
