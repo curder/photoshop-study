@@ -39,6 +39,7 @@ export default defineConfig({
                         {text: '打开文档', link: '/guide/open-document'},
                         {text: '保存文档', link: '/guide/save-document'},
                         {text: '关闭文档', link: '/guide/close-document'},
+                        {text: '性能配置', link: '/guide/performance-configuration'},
                         {text: '图像大小', link: '/guide/image-size'},
                         {text: '常用快捷方式', link: '/guide/keymapping'},
                     ]
