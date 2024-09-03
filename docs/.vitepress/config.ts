@@ -28,11 +28,16 @@ export default defineConfig({
             {icon: 'github', link: 'https://github.com/curder/photoshop-study'}
         ],
         nav: [
-            //
+            {text: 'Photoshop 基础', link: '/guide/keymapping'},
         ],
         sidebar: {
-            "/guide": [
-                //
+            "/guide/": [
+                {
+                    text: '',
+                    items: [
+                        {text: '常用快捷方式', link: '/guide/keymapping'},
+                    ]
+                },
             ]
         }
     }
