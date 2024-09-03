@@ -9,15 +9,15 @@
    在顶部菜单中选择 `文件 > 新建...`，或使用快捷键 `Cmd + N`。
 
    ::: details 点击查看新建文档选项
-   ![](./images/new-document/create-new-document.png)
+   ![](images/new-document/create-new-document.png)
 
    以上是新版文档选项，如果需要旧版文档，可以使用 “CMD + K” 打开 “首选项”后选择 “常规” -> 勾选“使用旧版‘新建文档’选项”并保存。
 
-   ![](./images/new-document/old-version-setting-for-create-new-document.png)
+   ![](images/new-document/old-version-setting-for-create-new-document.png)
 
    如果选择使用旧版“新建文档”选项的话，再次打开新建文档选项可以看到这样的界面。
 
-   ![](./images/new-document/old-version-for-create-new-document.png)
+   ![](images/new-document/old-version-for-create-new-document.png)
    :::
 
 2. **设置文档参数**
