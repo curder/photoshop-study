@@ -28,7 +28,7 @@ export default defineConfig({
             {icon: 'github', link: 'https://github.com/curder/photoshop-study'}
         ],
         nav: [
-            {text: 'Photoshop 基础', link: '/guide/keymapping'},
+            {text: 'Photoshop 基础', link: '/guide/new-document'},
         ],
         sidebar: {
             "/guide/": [
