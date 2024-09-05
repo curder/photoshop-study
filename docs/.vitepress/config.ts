@@ -44,6 +44,7 @@ export default defineConfig({
                         {text: '图层', link: '/guide/layers'},
                         {text: '视图操作', link: '/guide/view'},
                         {text: '移动工具', link: '/guide/move'},
+                        {text: '选区', link: '/guide/selection'},
                         {text: '常用快捷方式', link: '/guide/keymapping'},
                     ]
                 },
