@@ -45,6 +45,7 @@ export default defineConfig({
                         {text: '视图操作', link: '/guide/view'},
                         {text: '移动工具', link: '/guide/move'},
                         {text: '选区', link: '/guide/selection'},
+                        {text: '历史记录', link: '/guide/history'},
                         {text: '常用快捷方式', link: '/guide/keymapping'},
                     ]
                 },
