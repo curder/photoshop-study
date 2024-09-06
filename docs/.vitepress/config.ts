@@ -48,6 +48,7 @@ export default defineConfig({
                         {text: '历史记录', link: '/guide/history'},
                         {text: '画笔工具', link: '/guide/brush'},
                         {text: '修饰修复', link: '/guide/repair'},
+                        {text: '填充', link: '/guide/fill'},
                         {text: '常用快捷方式', link: '/guide/keymapping'},
                     ]
                 },
